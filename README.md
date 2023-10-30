@@ -38,6 +38,16 @@ Utilize the Password Generator to create new strong passwords.
 
 PyQt6
 
-## Contributions
+## Disclaimer
 
-Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and suggestions are welcome!
+PassGuard is a free and open-source software tool developed by [Your Name] for the purpose of assisting users with password management. Please note that this software is currently not licensed on GitHub, and as a result, it is considered copyright protected.
+
+## Distribution and Use
+
+You are free to use PassGuard for your personal use, and you may share it with others. However, you may not distribute copies of this tool or its code as it is copyright protected. To learn more about licensing and distribution, please refer to the license file included with the software.
+Contributions:
+
+Contributions and feedback are welcome. If you have suggestions or improvements you'd like to make to the tool, please feel free to discuss them and share your ideas. However, any contributions should adhere to the restrictions outlined in this disclaimer regarding distribution and licensing.
+We appreciate your understanding of these terms and hope you find PassGuard valuable in enhancing your password security.
+
+Thank you for your interest in PassGuard!
