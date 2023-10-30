@@ -31,7 +31,7 @@ Use the Password Generator to create strong and secure passwords for your accoun
 
 ## Usage
 
-Run the application using passguard.py.
+Run the application using passguard.py
 A graphical user interface will open.
 Use the Password Strength Checker to assess your passwords' strength.
 Utilize the Password Generator to create new strong passwords.
