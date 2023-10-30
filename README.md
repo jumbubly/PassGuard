@@ -31,7 +31,7 @@ Use the Password Generator to create strong and secure passwords for your accoun
 
 ## Usage
 
-Run the application using main.py.
+Run the application using passguard.py.
 A graphical user interface will open.
 Use the Password Strength Checker to assess your passwords' strength.
 Utilize the Password Generator to create new strong passwords.
@@ -42,7 +42,7 @@ PyQt6
 
 ## Disclaimer
 
-PassGuard is a free and open-source software tool developed by [Your Name] for the purpose of assisting users with password management. Please note that this software is currently not licensed on GitHub, and as a result, it is considered copyright protected.
+PassGuard is a free and open-source software tool developed by ReKing for the purpose of assisting users with password management. Please note that this software is currently not licensed on GitHub, and as a result, it is considered copyright protected.
 
 ## Distribution and Use
 
