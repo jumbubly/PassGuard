@@ -2,7 +2,7 @@
 
 **PassGuard** is a versatile tool designed to help you manage your passwords effectively. It combines a Password Strength Checker and a Password Generator to assist with your password needs.
 
-![PassGuard](https://github.com/jumbubly/repository/PassGuard/master/Image.png)
+![PassGuard](https://raw.githubusercontent.com/jumbubly/PassGuard/master/Image.png)
 
 ## Password Strength Checker
 
