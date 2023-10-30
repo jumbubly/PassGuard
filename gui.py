@@ -15,7 +15,7 @@ class PassGuard(QWidget):
         self.check_button = QPushButton("Check Strength")
         self.result_label = QLabel("")
 
-        # Password generation elements
+        
         self.uppercase_checkbox = QCheckBox("Uppercase")
         self.lowercase_checkbox = QCheckBox("Lowercase")
         self.digits_checkbox = QCheckBox("Digits")
@@ -23,7 +23,7 @@ class PassGuard(QWidget):
         self.length_label = QLabel("Length:")
         self.length_input = QSpinBox()
         
-        # Limit the maximum value of the length input to 32
+        
         self.length_input.setMaximum(32)
         
         self.generate_button = QPushButton("Generate Password")
@@ -34,7 +34,7 @@ class PassGuard(QWidget):
         layout.addWidget(self.check_button)
         layout.addWidget(self.result_label)
 
-        # Add password generation elements to the layout
+        
         generation_layout = QHBoxLayout()
         generation_layout.addWidget(self.uppercase_checkbox)
         generation_layout.addWidget(self.lowercase_checkbox)
