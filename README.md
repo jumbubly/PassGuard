@@ -46,7 +46,8 @@ PassGuard is a free and open-source software tool developed by ReKing for the pu
 
 ## Distribution and Use
 
-You are free to use PassGuard for your personal use, and you may share it with others. However, you may not distribute copies of this tool or its code as it is copyright protected. To learn more about licensing and distribution, please refer to the license file included with the software.
+You are free to use PassGuard for your personal use, and you may share it with others. However, you may not distribute copies of this tool or its code as it is copyright protected.
+
 Contributions:
 
 Contributions and feedback are welcome. If you have suggestions or improvements you'd like to make to the tool, please feel free to discuss them and share your ideas. However, any contributions should adhere to the restrictions outlined in this disclaimer regarding distribution and licensing.
