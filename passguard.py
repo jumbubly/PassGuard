@@ -1,6 +1,6 @@
 import re
 import sys
-import random
+import secrets
 import string
 from PyQt6.QtWidgets import QApplication, QWidget, QLabel, QLineEdit, QPushButton, QVBoxLayout, QHBoxLayout, QCheckBox, QSpinBox, QMessageBox, QMainWindow, QMenuBar, QDialog, QTextBrowser
 from PyQt6.QtGui import QPalette, QColor, QAction
@@ -41,7 +41,9 @@ def generate_random_password(uppercase, lowercase, digits, special_chars, length
     if not char_sets:
         return "Weak: No character sets selected."
 
-    return ''.join(random.choice(char_sets) for _ in range(length))
+    # Use secrets.choice to generate a cryptographically secure random password
+    password = ''.join(secrets.choice(char_sets) for _ in range(length))
+    return password
 
 def check_strength():
     password = window.password_input.text()
